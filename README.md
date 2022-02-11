@@ -1,5 +1,5 @@
-# Leetcode
-## My Solutions:
+# Leetcode sulutions
+## Array:
 <details><summary>Remove Duplicates from Sorted Array</summary>
    
    [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RemoveDuplicatesFromSortedArray.java)
