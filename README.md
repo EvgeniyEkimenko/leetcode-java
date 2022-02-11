@@ -1,4 +1,4 @@
-# Leetcode sulutions
+# Leetcode solutions
 ## Array:
 <details><summary>Remove Duplicates from Sorted Array</summary>
    
