@@ -16,3 +16,11 @@
 
 </details>
 
+<details><summary>Rotate Array</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RotateArray.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/RotateArray.png)
+
+</details>
+
