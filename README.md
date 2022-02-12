@@ -32,7 +32,7 @@
 
 </details>
 
-<details><summary>Contains Duplicate</summary>
+<details><summary>Single Number</summary>
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/SingleNumber.java)
 
