@@ -32,3 +32,11 @@
 
 </details>
 
+<details><summary>Contains Duplicate</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/SingleNumber.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/SingleNumber.png)
+
+</details>
+
