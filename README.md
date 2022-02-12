@@ -24,3 +24,11 @@
 
 </details>
 
+<details><summary>Contains Duplicate</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ContainsDuplicate.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ContainsDuplicate.png)
+
+</details>
+
