@@ -40,3 +40,11 @@
 
 </details>
 
+<details><summary>Intersection Of Two Arrays</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/IntersectionOfTwoArrays.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/IntersectionOfTwoArrays.png)
+
+</details>
+
