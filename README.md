@@ -65,3 +65,11 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/MoveZeroes.png)
 
 </details>
+
+<details><summary>Two Sum</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/TwoSum.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/TwoSum.png)
+
+</details>
