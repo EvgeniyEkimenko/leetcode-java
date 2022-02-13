@@ -73,3 +73,13 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/TwoSum.png)
 
 </details>
+
+## Strings:
+
+<details><summary>Reverse String</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ReverseString.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseString.png)
+
+</details>
