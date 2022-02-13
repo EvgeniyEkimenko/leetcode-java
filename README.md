@@ -56,3 +56,12 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/PlusOne.png)
 
 </details>
+
+
+<details><summary>Move Zeroes</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/MoveZeroes.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/MoveZeroes.png)
+
+</details>
