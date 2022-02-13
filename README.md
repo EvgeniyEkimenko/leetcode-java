@@ -48,3 +48,11 @@
 
 </details>
 
+
+<details><summary>Plus One</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/PlusOne.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/PlusOne.png)
+
+</details>
