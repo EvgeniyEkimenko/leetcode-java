@@ -91,3 +91,12 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseInteger.png)
 
 </details>
+
+
+<details><summary>First Unique Character in a String</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/FirstUniqueCharacterInAString.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/FirstUniqueCharacterInAString.png)
+
+</details>
