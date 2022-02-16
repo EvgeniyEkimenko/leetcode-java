@@ -1,4 +1,4 @@
-package array;
+package strings;
 
 public class ValidAnagram {
     public static void main(String[] args) {

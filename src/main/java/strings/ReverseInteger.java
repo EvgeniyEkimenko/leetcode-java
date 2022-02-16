@@ -1,4 +1,4 @@
-package array;
+package strings;
 
 public class ReverseInteger {
     public static void main(String[] args) {
