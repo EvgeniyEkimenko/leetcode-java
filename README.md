@@ -100,3 +100,11 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/FirstUniqueCharacterInAString.png)
 
 </details>
+
+<details><summary>Valid Anagram</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ValidAnagram.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidAnagram.png)
+
+</details>
