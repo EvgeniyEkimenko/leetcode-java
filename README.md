@@ -126,3 +126,12 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ImplementStrStr.png)
 
 </details>
+
+<details><summary>Longest Common Prefix </summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/LongestCommonPrefix.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/LongestCommonPrefix.png)
+
+</details>
+
