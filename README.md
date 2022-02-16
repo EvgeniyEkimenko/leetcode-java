@@ -2,7 +2,7 @@
 ## Top Interview questions
 ## Array:
 <details><summary>Remove Duplicates from Sorted Array</summary>
-   
+
    [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RemoveDuplicatesFromSortedArray.java)
    
    ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/RemoveDuplicatesFromSortedArray.png)
@@ -75,6 +75,24 @@
 
 </details>
 
+<details><summary>Valid Sudoku <span style="color:red"> (In progress)</span> </summary> 
+
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ValidSudoku.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidSudoku.png)
+
+</details>
+
+<details><summary>Rotate Image <span style="color:red"> (In progress)</span> </summary> 
+
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RotateImage.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/RotateImage.png)
+
+</details>
+
 ## Strings:
 
 <details><summary>Reverse String</summary>
@@ -110,6 +128,15 @@
 
 </details>
 
+<details><summary>String to Integer (atoi) <span style="color:red"> (In progress)</span> </summary> 
+
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/StringToInteger.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/StringToInteger.png)
+
+</details>
+
 
 <details><summary>Valid Palindrome</summary>
 
@@ -119,7 +146,7 @@
 
 </details>
 
-<details><summary>Implement strStr (needs a refactor!) </summary>  
+<details><summary>Implement strStr <span style="color:blue"> (Needs a refactor)</span> </summary>  
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ImplementStrStr.java)
 
