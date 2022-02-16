@@ -78,7 +78,7 @@
 
 <details><summary>Reverse String</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ReverseString.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseString.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseString.png)
 
@@ -86,7 +86,7 @@
 
 <details><summary>Reverse Integer</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ReverseInteger.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseInteger.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseInteger.png)
 
@@ -95,7 +95,7 @@
 
 <details><summary>First Unique Character in a String</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/FirstUniqueCharacterInAString.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/FirstUniqueCharacterInAString.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/FirstUniqueCharacterInAString.png)
 
@@ -103,7 +103,7 @@
 
 <details><summary>Valid Anagram</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ValidAnagram.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ValidAnagram.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidAnagram.png)
 
