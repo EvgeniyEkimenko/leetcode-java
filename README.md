@@ -109,3 +109,12 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidAnagram.png)
 
 </details>
+
+
+<details><summary>Valid Palindrome</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ValidPalindrome.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidPalindrome.png)
+
+</details>
