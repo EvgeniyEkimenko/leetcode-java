@@ -118,3 +118,11 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidPalindrome.png)
 
 </details>
+
+<details><summary>Implement strStr (needs a refactor!) </summary>  
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ImplementStrStr.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ImplementStrStr.png)
+
+</details>

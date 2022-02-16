@@ -2,6 +2,8 @@ package strings;
 
 
 public class ImplementStrStr {
+
+
     public static void main(String[] args) {
         System.out.println(new ImplementStrStr().strStr("eewsfeer", "eer"));
     }
