@@ -162,3 +162,15 @@
 
 </details>
 
+## Linked List:
+
+<details><summary>Delete Node In a LinkedList</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/DeleteNodeInLinkedList.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/DeleteNodeInLinkedList.png)
+
+</details>
+
+
+
