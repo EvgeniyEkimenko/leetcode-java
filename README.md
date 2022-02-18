@@ -180,5 +180,16 @@
 
 </details>
 
+<details><summary>Reverse Linked List</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseLinkedList.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseLinkedList.png)
+
+</details>
+
+
+
+
 
 
