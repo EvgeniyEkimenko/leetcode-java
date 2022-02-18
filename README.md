@@ -166,7 +166,7 @@
 
 <details><summary>Delete Node In a LinkedList</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/DeleteNodeInLinkedList.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/DeleteNodeInLinkedList.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/DeleteNodeInLinkedList.png)
 
@@ -174,7 +174,7 @@
 
 <details><summary>Remove Nth Node From End Of List</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/RemoveNthNodeFromEndOfList.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/RemoveNthNodeFromEndOfList.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/RemoveNthNodeFromEndOfList.png)
 
@@ -182,7 +182,7 @@
 
 <details><summary>Reverse Linked List</summary>
 
-[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseLinkedList.java)
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/ReverseLinkedList.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ReverseLinkedList.png)
 
