@@ -172,5 +172,13 @@
 
 </details>
 
+<details><summary>Remove Nth Node From End Of List</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/RemoveNthNodeFromEndOfList.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/RemoveNthNodeFromEndOfList.png)
+
+</details>
+
 
 
