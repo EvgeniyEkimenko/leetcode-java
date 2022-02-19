@@ -189,6 +189,14 @@
 </details>
 
 
+<details><summary>Merge Two Sorted Lists</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/MergeTwoSortedLists.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/MergeTwoSortedLists.png)
+
+</details>
+
 
 
 
