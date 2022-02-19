@@ -197,10 +197,9 @@
 
 </details>
 
-PalindromeLinkedList
+<details><summary>Palindrome Linked List (repeat this task later)</summary>
 
-<details><summary>Palindrome Linked List</summary>
-
+* 5ms
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/PalindromeLinkedList.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/PalindromeLinkedList.png)
