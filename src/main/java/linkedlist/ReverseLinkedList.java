@@ -2,6 +2,16 @@ package linkedlist;
 
 public class ReverseLinkedList {
 
+    public static void main(String[] args) {
+        ListNode nodes = new ListNode(1 ,
+                new ListNode(2 ,
+                        new ListNode(3 ,
+                                new ListNode(4 ,
+                                        new ListNode(5 , null)))));
+
+        reverseList(nodes);
+    }
+
     static class ListNode {
         int val;
         ListNode next;
@@ -19,10 +29,10 @@ public class ReverseLinkedList {
         }
     }
 
-    public ListNode reverseList(ListNode head) {
+    public static ListNode reverseList(ListNode head) {
 
         //1->2->3->4->5->null
-        //null<-5<-4<-3<-2<-1
+        //null<-1<-2<-3<-4<-5
         ListNode currentNode = head;
         ListNode previousNode = null;
 
