@@ -197,7 +197,15 @@
 
 </details>
 
+PalindromeLinkedList
 
+<details><summary>Palindrome Linked List</summary>
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/PalindromeLinkedList.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/PalindromeLinkedList.png)
+
+</details>
 
 
 
