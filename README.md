@@ -2,6 +2,7 @@
 ## Top Interview questions
 ## Array:
 <details><summary>Remove Duplicates from Sorted Array</summary>
+
 * 2 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RemoveDuplicatesFromSortedArray.java)
@@ -11,6 +12,7 @@
 </details>
 
 <details><summary>Best Time to Buy and Sell Stock II</summary>
+
 * 1 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/BestTimeToBuyAndSellStock.java)
@@ -20,6 +22,7 @@
 </details>
 
 <details><summary>Rotate Array (Needs a refactor!)</summary>
+
 * 4 ms 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RotateArray.java)
@@ -29,6 +32,7 @@
 </details>
 
 <details><summary>Contains Duplicate </summary>
+
 * 12 ms 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ContainsDuplicate.java)
@@ -38,6 +42,7 @@
 </details>
 
 <details><summary>Single Number (Needs a refactor!)</summary>
+
 * 8 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/SingleNumber.java)
@@ -47,6 +52,7 @@
 </details>
 
 <details><summary>Intersection Of Two Arrays</summary>
+
 * 4 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/IntersectionOfTwoArrays.java)
@@ -57,6 +63,7 @@
 
 
 <details><summary>Plus One</summary>
+
 * 0 ms (Your runtime beats 100.00 % of java submissions.) 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/PlusOne.java)
@@ -67,6 +74,7 @@
 
 
 <details><summary>Move Zeroes (Needs a refactor!)</summary>
+
 * 3 ms (Your runtime beats 39.08 % of java submissions)
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/MoveZeroes.java)
@@ -76,6 +84,7 @@
 </details>
 
 <details><summary>Two Sum</summary>
+
 * 4 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/TwoSum.java)
@@ -85,6 +94,7 @@
 </details>
 
 <details><summary>Valid Sudoku <span style="color:red"> (In progress)</span> </summary>
+
 * ? ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/ValidSudoku.java)
@@ -94,6 +104,7 @@
 </details>
 
 <details><summary>Rotate Image <span style="color:red"> (In progress)</span> </summary> 
+
 * ? ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RotateImage.java)
@@ -105,6 +116,7 @@
 ## Strings:
 
 <details><summary>Reverse String</summary>
+
 * 1 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseString.java)
@@ -114,6 +126,7 @@
 </details>
 
 <details><summary>Reverse Integer (Needs a refactor!)</summary>
+
 * 4 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ReverseInteger.java)
@@ -124,6 +137,7 @@
 
 
 <details><summary>First Unique Character in a String (Need a refactor!)</summary>
+
 * 40 ms 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/FirstUniqueCharacterInAString.java)
@@ -133,6 +147,7 @@
 </details>
 
 <details><summary>Valid Anagram (Needs a refactor!)</summary>
+
 * 1469 ms 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ValidAnagram.java)
@@ -142,6 +157,7 @@
 </details>
 
 <details><summary>String to Integer (atoi) <span style="color:red"> (In progress)</span> </summary> 
+
 * ? ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/StringToInteger.java)
@@ -152,6 +168,7 @@
 
 
 <details><summary>Valid Palindrome</summary>
+
 * 6 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ValidPalindrome.java)
@@ -160,7 +177,8 @@
 
 </details>
 
-<details><summary>Implement strStr <span style="color:blue"> (Needs a refactor)</span> </summary>  
+<details><summary>Implement strStr <span style="color:blue"> (Needs a refactor)</span> </summary>
+
 * 515 ms ("Your runtime beats 59.36 % of java submissions.")
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/ImplementStrStr.java)
@@ -170,6 +188,7 @@
 </details>
 
 <details><summary>Longest Common Prefix </summary>
+
 * 1 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/strings/LongestCommonPrefix.java)
@@ -181,6 +200,7 @@
 ## Linked List:
 
 <details><summary>Delete Node In a LinkedList</summary>
+
 * 0 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/DeleteNodeInLinkedList.java)
@@ -190,6 +210,7 @@
 </details>
 
 <details><summary>Remove Nth Node From End Of List</summary>
+
 * 1 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/RemoveNthNodeFromEndOfList.java)
@@ -199,6 +220,7 @@
 </details>
 
 <details><summary>Reverse Linked List</summary>
+
 * 0 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/ReverseLinkedList.java)
@@ -209,6 +231,7 @@
 
 
 <details><summary>Merge Two Sorted Lists</summary>
+
 * 0 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/MergeTwoSortedLists.java)
