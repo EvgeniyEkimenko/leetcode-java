@@ -243,9 +243,20 @@
 <details><summary>Palindrome Linked List (repeat this task later)</summary>
 
 * 5ms
+
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/PalindromeLinkedList.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/PalindromeLinkedList.png)
+
+</details>
+
+<details><summary>Linked List Cycle</summary>
+
+* 0ms (Your runtime beats 100.00 % of java submissions)
+
+  [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/inkedListCycle.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/inkedListCycle.png)
 
 </details>
 
