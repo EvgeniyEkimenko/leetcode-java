@@ -270,5 +270,17 @@
 
 </details>
 
+<details><summary>Validate Binary Search Tree</summary>
+
+* 1 ms (Your runtime beats 59.04 % of java submissions)
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/ValidateBinarySearchTree.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidateBinarySearchTree.png)
+
+</details>
+
+
+
 
 
