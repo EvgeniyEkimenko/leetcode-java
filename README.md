@@ -254,9 +254,19 @@
 
 * 0ms (Your runtime beats 100.00 % of java submissions)
 
-  [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/inkedListCycle.java)
+  [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/LinkedListCycle.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/inkedListCycle.png)
+
+</details>
+
+<details><summary>Linked List Cycle</summary>
+
+* 0 ms (Your runtime beats 100.00 % of java submissions)
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/MaximumDepthOfBinaryTree.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/MaximumDepthOfBinaryTree.png)
 
 </details>
 
