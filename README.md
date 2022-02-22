@@ -270,6 +270,7 @@
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/MaximumDepthOfBinaryTree.png)
 
+
 </details>
 
 <details><summary>Validate Binary Search Tree</summary>
@@ -291,6 +292,8 @@
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/SymmetricTree.png)
 
 </details>
+
+
 
 
 
