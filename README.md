@@ -293,6 +293,16 @@
 
 </details>
 
+<details><summary>Binary Tree Level Order Traversal</summary>
+
+* 0 ms (Your runtime beats 100.00 % of java submissions)
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/BinaryTreeLevelOrderTraversal.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/BinaryTreeLevelOrderTraversal.png)
+
+</details>
+
 
 
 

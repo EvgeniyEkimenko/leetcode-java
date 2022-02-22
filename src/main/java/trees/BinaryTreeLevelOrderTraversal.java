@@ -1,9 +1,7 @@
 package trees;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class BinaryTreeLevelOrderTraversal {
 
@@ -38,7 +36,6 @@ public class BinaryTreeLevelOrderTraversal {
         getListNodes(root, list, 0);
         return list;
     }
-
 
     public static void getListNodes(TreeNode root, List<List<Integer>> list, int level) {
         if (root == null) return;
