@@ -260,7 +260,9 @@
 
 </details>
 
-<details><summary>Linked List Cycle</summary>
+## Trees:
+
+<details><summary> Maximum Depth Of Binary Tree </summary>
 
 * 0 ms (Your runtime beats 100.00 % of java submissions)
 
@@ -277,6 +279,16 @@
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/ValidateBinarySearchTree.java)
 
 ![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/ValidateBinarySearchTree.png)
+
+</details>
+
+<details><summary>Symmetric Tree</summary>
+
+* 0 ms (Your runtime beats 100.00 % of java submissions)
+
+[Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/SymmetricTree.java)
+
+![Альтернативный текст](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/docs/SymmetricTree.png)
 
 </details>
 
