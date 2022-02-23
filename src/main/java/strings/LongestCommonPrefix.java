@@ -10,7 +10,7 @@ public class LongestCommonPrefix {
         if (strs.length == 1) return strs[0];
 
         char ch = ' ';
-        StringBuilder sb = new StringBuilder("");
+        StringBuilder sb = new StringBuilder();
         int j = 0;
 
         while (true) {

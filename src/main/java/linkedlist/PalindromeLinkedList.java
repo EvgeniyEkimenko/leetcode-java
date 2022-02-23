@@ -9,9 +9,9 @@ public class PalindromeLinkedList {
                                 (3, new ListNode
                                         (4, new ListNode
                                                 (5, new ListNode
-                                                        (6 , new ListNode
+                                                        (6, new ListNode
                                                                 (7, new ListNode
-                                                                        (8 , null))))))));
+                                                                        (8, null))))))));
         System.out.println(isPalindrome(listNode));
     }
 

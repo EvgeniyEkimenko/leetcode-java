@@ -35,10 +35,9 @@ public class MergeTwoSortedLists {
             temp = temp.next;
         }
 
-        if (l1!=null) {
+        if (l1 != null) {
             temp.next = l1;
-        }
-        else {
+        } else {
             temp.next = l2;
         }
         return result.next;

@@ -15,7 +15,6 @@ public class ContainsDuplicate {
         for (int i = 0; i < nums.length; i++) {
             set.add(nums[i]);
         }
-        if (set.size() != nums.length) return true;
-        else return false;
+        return set.size() != nums.length;
     }
 }

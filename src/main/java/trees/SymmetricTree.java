@@ -33,6 +33,6 @@ public class SymmetricTree {
 
         if (left.val != right.val) return false;
 
-        return isSymmetric(left.left , right.right) && (isSymmetric(left.right , right.left));
+        return isSymmetric(left.left, right.right) && (isSymmetric(left.right, right.left));
     }
 }

@@ -34,14 +34,14 @@ public class LinkedListCycle {
 
     public static boolean hasCycle(ListNode head) {
 
-        if (head==null || head.next==null) return false;
+        if (head == null || head.next == null) return false;
 
         ListNode node = head;
 
-        while (node.next!=null) {
-            node.val=Integer.MAX_VALUE;
+        while (node.next != null) {
+            node.val = Integer.MAX_VALUE;
             node = node.next;
-            if (node.val==Integer.MAX_VALUE) return true;
+            if (node.val == Integer.MAX_VALUE) return true;
         }
         return false;
     }

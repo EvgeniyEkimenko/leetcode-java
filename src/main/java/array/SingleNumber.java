@@ -16,14 +16,13 @@ public class SingleNumber {
         Map<Integer, Integer> keyToFreq = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             if (!keyToFreq.containsKey(nums[i])) {
-                keyToFreq.put(nums[i] , 1);
-            }
-            else {
-                keyToFreq.replace(nums[i] , 1 , 2);
+                keyToFreq.put(nums[i], 1);
+            } else {
+                keyToFreq.replace(nums[i], 1, 2);
             }
         }
-        for (Map.Entry<Integer , Integer> entry : keyToFreq.entrySet()) {
-            if (entry.getValue()==1) return entry.getKey();
+        for (Map.Entry<Integer, Integer> entry : keyToFreq.entrySet()) {
+            if (entry.getValue() == 1) return entry.getKey();
         }
         return 0;
     }

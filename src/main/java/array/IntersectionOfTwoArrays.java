@@ -25,7 +25,7 @@ public class IntersectionOfTwoArrays {
                 m.put(val, m.get(val) - 1);
             }
         }
-        int ans[] = new int[k];
+        int[] ans = new int[k];
         for (int i = 0; i < k; i++) {
             ans[i] = nums1[i];
         }

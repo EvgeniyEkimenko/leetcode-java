@@ -13,7 +13,7 @@ public class ReverseInteger {
         StringBuilder sb = new StringBuilder();
         boolean isZero = true;
 
-        if (chArray.length==1 && chArray[0]=='0') return 0;
+        if (chArray.length == 1 && chArray[0] == '0') return 0;
 
         if (chArray[0] == '-') sb.append('-');
         for (int i = chArray.length - 1; i >= 0; i--) {
@@ -24,8 +24,8 @@ public class ReverseInteger {
         }
 
         long res = Long.parseLong(sb.toString());
-        if ((int)res!=res) return 0;
-        return (int)res;
+        if ((int) res != res) return 0;
+        return (int) res;
     }
 }
 

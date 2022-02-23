@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class PlusOne {
 
     public static void main(String[] args) {
-        int[] testArray = new int[]{8,9,9,9};
+        int[] testArray = new int[]{8, 9, 9, 9};
         System.out.println(Arrays.toString(new PlusOne().plusOne(testArray)));
     }
 
