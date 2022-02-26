@@ -3,6 +3,7 @@
 ## Array:
 <details><summary>Remove Duplicates from Sorted Array</summary>
 
+   
 * 2 ms
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/RemoveDuplicatesFromSortedArray.java)
