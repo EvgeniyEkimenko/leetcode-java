@@ -12,7 +12,7 @@
 
 </details>
 
-<details><summary>Best Time to Buy and Sell Stock II</summary>
+<details><summary>Best Time to Buy and Sell Stock 2</summary>
 
 * 1 ms
 
