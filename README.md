@@ -74,7 +74,7 @@
 </details>
 
 
-<details><summary>Move Zeroes (Needs a refactor!)</summary>
+<details><summary>Move Zeroes</summary>
 
 * 3 ms (Your runtime beats 39.08 % of java submissions)
 
