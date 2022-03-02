@@ -265,7 +265,7 @@
 
 <details><summary> Maximum Depth Of Binary Tree </summary>
 
-* 0 ms (Your runtime beats 100.00 % of java submissions)
+* Time 0 ms (100.00 %)
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/MaximumDepthOfBinaryTree.java)
 
@@ -276,7 +276,7 @@
 
 <details><summary>Validate Binary Search Tree</summary>
 
-* 1 ms (Your runtime beats 59.04 % of java submissions)
+* Time 1 ms (59.04 %)
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/ValidateBinarySearchTree.java)
 
@@ -286,7 +286,7 @@
 
 <details><summary>Symmetric Tree</summary>
 
-* 0 ms (Your runtime beats 100.00 % of java submissions)
+* Time 0 ms (100.00 %)
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/SymmetricTree.java)
 
@@ -296,7 +296,7 @@
 
 <details><summary>Binary Tree Level Order Traversal</summary>
 
-* 0 ms (Your runtime beats 100.00 % of java submissions)
+* Time 0 ms (100.00 %)
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/trees/BinaryTreeLevelOrderTraversal.java)
 
