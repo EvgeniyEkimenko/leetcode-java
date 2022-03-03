@@ -243,7 +243,7 @@
 
 <details><summary>Palindrome Linked List (repeat this task later)</summary>
 
-* 5ms
+* 5ms ()
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/linkedlist/PalindromeLinkedList.java)
 
