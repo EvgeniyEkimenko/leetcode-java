@@ -65,7 +65,7 @@
 
 <details><summary>Plus One</summary>
 
-* 0 ms (Your runtime beats 100.00 % of java submissions.) 
+* Time: 0 ms (100.00 %) 
 
 [Solution](https://github.com/EvgeniyEkimenko/leetcode-java/blob/master/src/main/java/array/PlusOne.java)
 
