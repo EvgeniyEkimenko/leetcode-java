@@ -126,7 +126,7 @@
 
 </details>
 
-<details><summary>Reverse Integer (Needs a refactor!)</summary>
+<details><summary>Reverse Integer (Needs a refactor)</summary>
 
 * 4 ms
 
