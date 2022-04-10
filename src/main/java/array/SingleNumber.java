@@ -11,35 +11,16 @@ public class SingleNumber {
 
     }
 
+    //new solution
     public int singleNumber(int[] nums) {
 
-        Map<Integer, Integer> keyToFreq = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (!keyToFreq.containsKey(nums[i])) {
-                keyToFreq.put(nums[i], 1);
-            } else {
-                keyToFreq.replace(nums[i], 1, 2);
-            }
+        int res = 0;
+        for (int i=0;i<nums.length;i++) {
+            res=res^nums[i];
         }
-        for (Map.Entry<Integer, Integer> entry : keyToFreq.entrySet()) {
-            if (entry.getValue() == 1) return entry.getKey();
-        }
-        return 0;
+        return res;
     }
 
-    /*
-    //The best another solution
 
-    class Solution {
-    public int singleNumber(int[] nums) {
-        int n = 0;
-
-        for(int num : nums){
-            n = n^num;
-        }
-
-        return n;
-    }
-}*/
 
 }
