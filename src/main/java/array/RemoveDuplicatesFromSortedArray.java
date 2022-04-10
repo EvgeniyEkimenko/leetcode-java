@@ -9,6 +9,7 @@ public class RemoveDuplicatesFromSortedArray {
 
     }
 
+    //first solution 11.2.22
     public int removeDuplicates(int[] nums) {
 
         int sourcePointer = 1;
@@ -21,5 +22,20 @@ public class RemoveDuplicatesFromSortedArray {
             }
         }
         return sourcePointer;
+    }
+
+
+    //second solution 10.4.22
+    public int removeDuplicates2(int[] nums) {
+        if (nums.length==1) return 1;
+
+        int j = 1;
+        for (int i=1;i<nums.length;i++) {
+            if (nums[i]!=nums[i-1]) {
+                nums[j]=nums[i];
+                j++;
+            }
+        }
+        return j;
     }
 }

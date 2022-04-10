@@ -2,6 +2,10 @@ package trees;
 
 public class MaximumDepthOfBinaryTree {
 
+    public static void main(String... a) {
+
+    }
+
     public static class TreeNode {
         int val;
         TreeNode left;
