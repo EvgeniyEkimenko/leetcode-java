@@ -21,7 +21,7 @@
 
 </details>
 
-<details><summary>Rotate Array (Needs a refactor!)</summary>
+<details><summary>Rotate Array </summary>
 
 * 4 ms 
 
@@ -41,7 +41,7 @@
 
 </details>
 
-<details><summary>Single Number (Needs a refactor!)</summary>
+<details><summary>Single Number </summary>
 
 * 8 ms
 
@@ -73,7 +73,7 @@
 </details>
 
 
-<details><summary>Move Zeroes (Needs a refactor!)</summary>
+<details><summary>Move Zeroes </summary>
 
 * 3 ms (Your runtime beats 39.08 % of java submissions)
 
@@ -125,7 +125,7 @@
 
 </details>
 
-<details><summary>Reverse Integer (Needs a refactor!)</summary>
+<details><summary>Reverse Integer </summary>
 
 * 4 ms
 
@@ -136,7 +136,7 @@
 </details>
 
 
-<details><summary>First Unique Character in a String (Need a refactor!)</summary>
+<details><summary>First Unique Character in a String </summary>
 
 * 40 ms 
 
@@ -146,7 +146,7 @@
 
 </details>
 
-<details><summary>Valid Anagram (Needs a refactor!)</summary>
+<details><summary>Valid Anagram </summary>
 
 * 1469 ms 
 
@@ -177,7 +177,7 @@
 
 </details>
 
-<details><summary>Implement strStr <span style="color:blue"> (Needs a refactor)</span> </summary>
+<details><summary>Implement strStr <span style="color:blue"> </span> </summary>
 
 * 515 ms ("Your runtime beats 59.36 % of java submissions.")
 
