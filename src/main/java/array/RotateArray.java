@@ -2,7 +2,7 @@ package array;
 
 public class RotateArray {
     public static void main(String[] args) {
-        int[] nums = {1, 2}; //test input
+        int[] nums = {1,2,3,4,5,6,7}; //test input
         new RotateArray().rotate(nums, 3);
     }
 
